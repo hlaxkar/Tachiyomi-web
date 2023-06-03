@@ -1,6 +1,6 @@
-# Manga Reader App
+# Tachiyomi-Web
 
-Welcome to the Manga Reader App repository! This is an Angular and Electron-based application that allows users to read manga on PC platforms. The app provides features such as browsing manga, managing a library, tracking updates, and more.
+Welcome to the Tachiyomi-Web! This is an Angular and Electron-based application that allows users to read manga on PC platforms. The app provides features such as browsing manga, managing a library, tracking updates, and more.
 
 ## Features
 
